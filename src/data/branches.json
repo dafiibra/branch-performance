@@ -1,0 +1,74 @@
+[
+  {
+    "id": "br-001",
+    "name": "Cabang Sudirman",
+    "city": "Jakarta",
+    "region": "DKI Jakarta",
+    "manager": "Andi Pratama",
+    "revenue": 1850000000,
+    "target": 1500000000,
+    "customers": 4820,
+    "transactions": 13245,
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "id": "br-002",
+    "name": "Cabang Dago",
+    "city": "Bandung",
+    "region": "Jawa Barat",
+    "manager": "Sari Wulandari",
+    "revenue": 980000000,
+    "target": 1200000000,
+    "customers": 3210,
+    "transactions": 8870,
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "id": "br-003",
+    "name": "Cabang Tunjungan",
+    "city": "Surabaya",
+    "region": "Jawa Timur",
+    "manager": "Bayu Setiawan",
+    "revenue": 1420000000,
+    "target": 1300000000,
+    "customers": 4015,
+    "transactions": 11200,
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "id": "br-004",
+    "name": "Cabang Malioboro",
+    "city": "Yogyakarta",
+    "region": "DI Yogyakarta",
+    "manager": "Dewi Anggraini",
+    "revenue": 720000000,
+    "target": 900000000,
+    "customers": 2540,
+    "transactions": 6780,
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "id": "br-005",
+    "name": "Cabang Panakkukang",
+    "city": "Makassar",
+    "region": "Sulawesi Selatan",
+    "manager": "Rizky Hidayat",
+    "revenue": 540000000,
+    "target": 800000000,
+    "customers": 1980,
+    "transactions": 5320,
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "id": "br-006",
+    "name": "Cabang Medan Petisah",
+    "city": "Medan",
+    "region": "Sumatera Utara",
+    "manager": "Putri Handayani",
+    "revenue": 1110000000,
+    "target": 1000000000,
+    "customers": 3380,
+    "transactions": 9240,
+    "updatedAt": "2026-04-01T08:00:00.000Z"
+  }
+]
