@@ -7,7 +7,12 @@ import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Link } from 'expo-router';
 
-export default function HomeScreen() {
+export { BranchPerformanceScreen as default } from '@/src/ui/screens/BranchPerformanceScreen';
+
+// Komponen lama dipertahankan sebagai referensi template Expo Router.
+// Ganti baris `export { BranchPerformanceScreen as default }` di atas dengan
+// `export default LegacyHomeScreen` jika ingin kembali ke template bawaan.
+function LegacyHomeScreen() {
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
